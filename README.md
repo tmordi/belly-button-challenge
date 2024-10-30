@@ -1,4 +1,8 @@
 # belly-button-challenge
+
+
+link to GITHUB PAGES: https://tmordi.github.io/belly-button-challenge/
+
 this homework was done with help from Phil the TA, google resources done together with Mahmoud and Tutor.
 we encountered a bit of issue which with in our index.html in creating the bubble chart where it gave us an error saying buuble chart was not defined the fix was '<div id="bubble"></div>' to change <div id="bubble-chart"></div> and that was how the code ran
 
@@ -82,4 +86,4 @@ Metadata initializes without error (10 points)
 
 Metadata updates when a new sample is selected (10 points)
 
-App Successfully Deployed to Github Pages (10 points)
+App Successfully Deployed to Github Pages (10 points) https://tmordi.github.io/belly-button-challenge/
